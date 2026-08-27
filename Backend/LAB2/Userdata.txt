@@ -1,1 +1,2 @@
 Hello, this is a sample content for the file.
+This is an appended line.
